@@ -1,0 +1,14 @@
+/Users/zachskufca/Documents/ACTMIS 4630/MyConsoleApp/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp
+/Users/zachskufca/Documents/ACTMIS 4630/MyConsoleApp/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.deps.json
+/Users/zachskufca/Documents/ACTMIS 4630/MyConsoleApp/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.runtimeconfig.json
+/Users/zachskufca/Documents/ACTMIS 4630/MyConsoleApp/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.dll
+/Users/zachskufca/Documents/ACTMIS 4630/MyConsoleApp/MyConsoleApp/bin/Debug/net8.0/MyConsoleApp.pdb
+/Users/zachskufca/Documents/ACTMIS 4630/MyConsoleApp/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zachskufca/Documents/ACTMIS 4630/MyConsoleApp/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.AssemblyInfoInputs.cache
+/Users/zachskufca/Documents/ACTMIS 4630/MyConsoleApp/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.AssemblyInfo.cs
+/Users/zachskufca/Documents/ACTMIS 4630/MyConsoleApp/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.csproj.CoreCompileInputs.cache
+/Users/zachskufca/Documents/ACTMIS 4630/MyConsoleApp/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.dll
+/Users/zachskufca/Documents/ACTMIS 4630/MyConsoleApp/MyConsoleApp/obj/Debug/net8.0/refint/MyConsoleApp.dll
+/Users/zachskufca/Documents/ACTMIS 4630/MyConsoleApp/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.pdb
+/Users/zachskufca/Documents/ACTMIS 4630/MyConsoleApp/MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.genruntimeconfig.cache
+/Users/zachskufca/Documents/ACTMIS 4630/MyConsoleApp/MyConsoleApp/obj/Debug/net8.0/ref/MyConsoleApp.dll
